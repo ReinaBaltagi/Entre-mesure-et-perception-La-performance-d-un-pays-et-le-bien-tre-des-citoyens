@@ -1,0 +1,2 @@
+# Entre-mesure-et-perception-La-performance-d-un-pays-et-le-bien-tre-des-citoyens
+Ce mémoire présente une modélisation économétrique du bien-être subjectif à partir de différents indicateurs. L’objectif est double, premièrement identifier les facteurs structurels les plus associés au bonheur perçu dans plusieurs pays, deuxièmement, construire un « pays parfait » synthétique en combinant les meilleures performances observées.
